@@ -1,3 +1,5 @@
+Go to [Lab Report 2 (Week 4)](lab-report2.md)
+
 # Lab Report 1 (Week 2)
 
 **TUTORIAL: *LOGGING INTO A COURSE-SPECIFIC ACCOUNT ON IENG6***  
