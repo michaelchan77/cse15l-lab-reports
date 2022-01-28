@@ -1,4 +1,4 @@
-# CSE15L W2 Lab Report
+# Lab Report 1 (Week 2)
 
 **TUTORIAL: *LOGGING INTO A COURSE-SPECIFIC ACCOUNT ON IENG6***  
 Michael Chan  
