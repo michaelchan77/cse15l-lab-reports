@@ -1,5 +1,6 @@
 Go to [Lab Report 2 (Week 4)](lab-report2.md)   
-Go to [Lab Report 3 (Week 6)](lab-report-3-week-6.md)
+Go to [Lab Report 3 (Week 6)](lab-report-3-week-6.md)   
+Go to [Lab Report 4 (Week 8)](lab-report-4-week-8.md)
 
 # Lab Report 1 (Week 2)
 
