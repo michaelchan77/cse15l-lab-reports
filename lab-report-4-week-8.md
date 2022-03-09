@@ -11,6 +11,14 @@ Michael Chan
 [Michael C (mine)](https://github.com/michaelchan77/markdown-parse)   
 [Ben X (reviewed)](https://github.com/BenX-64/markdown-parse)   
 <br>
+**Expected Output from CommonMark**   
+Snippet 1   
+![Image](W8_4.png)
+Snippet 2   
+![Image](W8_5.png)
+Snippet 3   
+![Image](W8_6.png)
+<br>
 **Tests**   
 I created three new test files containing Snippets 1-3 respectively, then inserted the following code into MarkdownParseTest.java for both implementations.   
 ![Image](W8_1.png)
