@@ -20,7 +20,7 @@ My implementation's output:
 Provided implementation's output:   
 ![Image](W10_3.png)   
    
-The provided implementation returned the expected empty list but my implementation produced the wrong output. The contents in the parentheses should not produce a link because of the newline in the middle of the text. To fix the bug, an if-statement should be inserted before line 25 to the code below that checks whether markdown contains a `\n` before adding it to `toReturn`.
+The provided implementation returned the expected empty list, but my implementation produced the wrong output. The contents in the parentheses should not produce a link because of the newline in the middle of the text. To fix the bug, an if-statement should be inserted before line 25 to the code below that checks whether markdown contains a `\n` before adding it to `toReturn`.
 ![Image](W10_4.png)   
 <br> 
 
@@ -32,6 +32,6 @@ My implementation's output:
 Provided implementation's output:   
 ![Image](W10_7.png)  
    
-Both implementations produced the wrong output. The provided implementation returned an empty list while mine returned an almost-correct list with a missing `)`. To fix the output for the provided implementation, line 73 in the code below would need to be removed or fixed to recognize contents of the form `/url (link)` and ignore the space in that case.
+Both implementations produced the wrong output. The provided implementation returned an empty list while mine returned an almost-correct list with a missing `)`. To fix the output for the provided implementation, line 75 in the code below would need to be removed or fixed to recognize contents of the form `/url (link)` and ignore the space in that case.
 ![Image](W10_8.png)  
 
